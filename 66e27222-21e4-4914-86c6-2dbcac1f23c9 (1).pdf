@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+	<title>
+		totalapps- merchant pdf	</title>
+	</head>
+	<body bgcolor="#fffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+		<div id="header">
+			<div id="pdf_img"><img src="/img/layout/logo.png" height="42" width="80"></div>
+			<div id="pdf_heading">
+				ABUS Mobile Security, inc.<br/>1440 North Dayton, Suite 302<br/>Chicago, IL 60642-2654 USA</div>
+			</div>
+		</div>
+	   
+		<div id="container">
+			<div id="content">		
+				<div align="center"><h3>Product Registration Details</h3>
+	<div>Phil Quinlan</div><div  id="prod_details">
+	605 W WAYNE ST Maumee<br/>OH, US 43537-2098	</div>
+	<h4>Registered Products</h4>
+	<div class="prod_title">Product:</div><div class="prod_details">
+		Chain	</div><div class="prod_title">Key Code:</div><div class="prod_details">
+		Z740214	</div><div class="prod_title">Lock Combo:</div><div class="prod_details">
+			</div><div class="prod_title">Purchased From:</div><div class="prod_details">
+		Spokelife 	</div><div id="prod_details">On:</div><div>2024-09-11</div></div>
+<style>
+	.prod_title {
+		color:#cc0000;
+		font-weight:bold;
+		margin-top:-15px;
+	}
+	.prod_details {
+		margin:0 0 15px 0;
+	}
+</style>			</div>		
+		</div>		
+	</body>
+</html>
+<style>
+#header { width:100% !important;}
+#pdf_img { width:100% !important; }
+#pdf_heading { width:900px; margin-left:120px; position:absolute; top:5px;}
+</style>
